@@ -1,0 +1,13 @@
+{
+  "headerTabs": [
+    "Courses",
+    "Test Series",
+    "Results",
+    "Study Materials",
+    "Scholarships",
+    "Books",
+    "More"
+  ],
+  "courses": ["NEET", "JEE", "Class 6-10", "View All Options"],
+  "coursesPageLinks": ["/neet", "/jee", "classes-6-10"]
+}
